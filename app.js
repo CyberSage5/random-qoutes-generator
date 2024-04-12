@@ -1,4 +1,3 @@
-document.addEventListener("DOMContentLoaded", function() {
     // Define an array of quotes and authors
     const quotes = [
         {
